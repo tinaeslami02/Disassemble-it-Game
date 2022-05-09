@@ -1,8 +1,9 @@
 # Disassemble-it-Game
 
 There are 2 important files here:
-  1. The Disassemble-it game ready to be downloaded and run on a Windows computer.
-  3. The Unity/C# code used in creating The Disassemble-it game.
+  1. The Disassemble-it game ready to be downloaded and run on a Windows computer. (Download this repository as a zip file and unzip on your computer. Then, run the rectangledrawarea.exe file on your computer)
+  
+  2. The Unity/C# code used in creating The Disassemble-it game. (Navigate to 'GameCode' folder, then into 'Assets' folder and then into the 'Scripts' folder)
 
 If for any reason the game is not successfully run on your computer, the game can be accessed online at: https://simmer.io/@tinatunafish/disassemble-it
 
