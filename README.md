@@ -10,5 +10,10 @@ If for any reason the game is not able to run on your computer, the game can be 
   NOTE: If the game is run online, the user is not able to participate in the leaderboard since PlayFab used for the creation of leaderboard does not work with simmer.io.
   
   The following references are for the UI components such as buttons, images etc. that were used in the creation of Disassemble-it:
-  
+    https://opengameart.org/content/gui-2
+    https://opengameart.org/content/comic-speech-balloons
+    https://cooltext.com/
+    https://www.fontspace.com/category/crazy
+    https://opengameart.org
+    https://opengameart.org/content/ui-buttons-3
     
