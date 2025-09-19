@@ -674,11 +674,11 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: f4581602-2f7a-4631-86be-d08e484d64d9
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
-  cloudEnabled: 0
+  projectName: Disassemble-it
+  organizationId: tinyshark420
+  cloudEnabled: 1
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
   legacyClampBlendShapeWeights: 0
